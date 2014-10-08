@@ -1,4 +1,5 @@
 # Setup script for Sentry on CentOS 6.x
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/milesich/setup-sentry-centos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [Sentry](https://getsentry.com/welcome/) is a realtime event logging and aggregation platform.<br>
 This scrips provides you to setup Sentry on CentOS 6.x with MySQL and Redis as Queue/Buffer/Cache so quickly.
